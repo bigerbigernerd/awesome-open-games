@@ -1,5 +1,7 @@
 # Awesome Open Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+![Awesome Open Games banner](docs/banner.png)
+
 > 精选**真正可玩的开源游戏**，以及做游戏所需的**引擎、框架、教程和免费素材**。
 >
 > English version: [README.md](README.md)

@@ -1,5 +1,7 @@
 # Awesome Open Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+![Awesome Open Games banner](docs/banner.png)
+
 > A curated list of **open source games** you can actually play, plus the **engines, frameworks, tutorials and free assets** you need to build your own.
 >
 > 中文版点这里：[README.zh-CN.md](README.zh-CN.md)
